@@ -40,8 +40,7 @@ def add_weight():
     """
     # yoo
     print("Hello World")
-    print("Hello World")
-    print("Hello World")
+    print("Symbiting data to DB")
     weight = float(input())
     today = datetime.now().strftime('%m-%d')
 
