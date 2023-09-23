@@ -39,8 +39,9 @@ def add_weight():
     Add a daily weight entry with the current date.
     """
     # yoo
+
     print("Hello World")
-    print("Symbiting data to DB")
+    print("Updating")
     weight = float(input())
     today = datetime.now().strftime('%m-%d')
 
